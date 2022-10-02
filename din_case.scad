@@ -11,7 +11,6 @@
  *   |___|D|
  *
  */
-include <../Librairies/trapeze.scad>
 $fn=100;
 
 // DIN rail width is 35mm
@@ -41,9 +40,7 @@ screw_pole_width=6;
 screw_hole_radius=1;
 screw_hole_offset=screw_pole_width/2+wall_thickness;
 
-// complete_set(size=2, terminal_number=1, screw=true);
-
-cover(true);
+complete_set(size=2, terminal_number=1, screw=true);
 
 module complete_set(size=1, terminal_number=undef, screw=true) {
     box(size, terminal_number, screw);
@@ -252,4 +249,3 @@ module trapeze(bottom_lenght, top_lenght, width, height) {
         );
     }
 }
-
