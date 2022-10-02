@@ -7,5 +7,6 @@ Permet d'installer un équipement comme par exemple un système domotique au sei
 ![photo2](https://user-images.githubusercontent.com/3735794/193459154-08f23003-6c31-4e52-accc-82a649b07ba9.jpg)
 ![photo3](https://user-images.githubusercontent.com/3735794/193459155-abdcaec4-9f28-440f-8d84-84ab501719b3.jpg)
 ![photo4](https://user-images.githubusercontent.com/3735794/193459156-aaf5e735-53c0-4880-83cb-7bc1fcd21ea5.jpg)
+![Selection_154](https://user-images.githubusercontent.com/3735794/193459849-ae804afa-5770-4ebd-b8d2-ce4be7ca13fc.png)
 
 https://en.wikipedia.org/wiki/DIN_rail
